@@ -1,0 +1,2 @@
+*.gff.gz filter=lfs diff=lfs merge=lfs -text
+*.fsa.gz filter=lfs diff=lfs merge=lfs -text

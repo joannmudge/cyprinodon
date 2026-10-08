@@ -1,0 +1,7 @@
+Copyright (c) 2026 National Center for Genome Resources (NCGR). All Rights Reserved.
+
+This repository contains unpublished genome assembly data and associated annotation.
+This is for reviewer use only.
+No part of this repository may be reproduced, distributed, shared, or 
+modified in any form or by any means without the prior written permission 
+of the copyright holder.
